@@ -2,7 +2,8 @@
 
 This is a pet project that illustrates how to implement a hackernew clone with next.js, react-query, tailwindcss with a graphql backend.
 
-![Screen Shot 2022-07-16 at 3 51 29 PM](https://user-images.githubusercontent.com/1467801/179374341-721085cf-9e29-4570-825d-d29f86a03ca5.png)
+![Screen Shot 2022-07-16 at 3 59 07 PM](https://user-images.githubusercontent.com/1467801/179374364-18517eaa-6551-4076-afd7-3a9c7936bb78.png)
+
 
 
 ## prerequisite

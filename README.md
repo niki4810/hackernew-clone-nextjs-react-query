@@ -2,6 +2,9 @@
 
 This is a pet project that illustrates how to implement a hackernew clone with next.js, react-query, tailwindcss with a graphql backend.
 
+![Screen Shot 2022-07-16 at 3 51 29 PM](https://user-images.githubusercontent.com/1467801/179374341-721085cf-9e29-4570-825d-d29f86a03ca5.png)
+
+
 ## prerequisite
 
 - This project uses a custom pre-built graphql backend implement as a part of https://www.howtographql.com/react-apollo/1-getting-started/
@@ -28,3 +31,4 @@ yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
